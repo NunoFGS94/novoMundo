@@ -1,0 +1,11 @@
+com/mundoNovo/mundoNovo/exceptions/ResourceNotFoundException.class
+com/mundoNovo/mundoNovo/repository/UserRepository.class
+com/mundoNovo/mundoNovo/MundoNovoApplication.class
+com/mundoNovo/mundoNovo/models/User.class
+com/mundoNovo/mundoNovo/models/Event.class
+com/mundoNovo/mundoNovo/models/EventType.class
+com/mundoNovo/mundoNovo/controllers/UserController.class
+com/mundoNovo/mundoNovo/repository/CityRepository.class
+com/mundoNovo/mundoNovo/models/City.class
+com/mundoNovo/mundoNovo/repository/EventRepository.class
+com/mundoNovo/mundoNovo/repository/EventTypeRepository.class
